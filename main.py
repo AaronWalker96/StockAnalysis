@@ -35,7 +35,7 @@ def main():
     clf.fit(X_train, y_train)
     confidence = clf.score(X_test, y_test)
 
-    print(confidence)
+    print(f'The confidence level is: {confidence}')
 
 
 if __name__ == '__main__':
