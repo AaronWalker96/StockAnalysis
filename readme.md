@@ -6,7 +6,4 @@ Clone the repository and set up a `Python 3.7` or later virtual environment. Use
 pip install -r requirements.txt
 ``` 
 ## Running the Project
-Run the project by executing:
-```bash
-python main.py
-```
+Run the project by opening `StockAnalysis.ipynb` in a Jupyter environment
